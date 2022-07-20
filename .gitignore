@@ -6,5 +6,4 @@ vendor
 _drafts/
 .DS_Store
 *.swp
-jekyll-theme-chirpy.gemspec
 Gemfile.lock
