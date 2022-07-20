@@ -26,7 +26,7 @@ title: Bisso                          # the main title
 tagline: Backend Developer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Java 
+  Java
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bisso-jk.github.io'
@@ -81,7 +81,7 @@ theme_mode: light  # [light|dark]
 #
 # e.g. 'https://cdn.com'
 #img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
-img_cdn: ''
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 'assets/img/blog_image/profile_photo.jpeg'
