@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_drafts/
+.DS_Store
+*.swp
+jekyll-theme-chirpy.gemspec
+Gemfile.lock
